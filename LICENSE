@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2026 tropicalstream
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL NOTICE FOR THIS PROJECT
+
+PHOTOSENSITIVITY WARNING. This Software displays flashing lights, strobing and
+rapidly moving high-contrast patterns generated in real time. It may trigger
+seizures in people with photosensitive epilepsy, even in those with no prior
+history of seizures. If you, or anyone in your household, has an epileptic
+condition, consult a physician before use. Stop use immediately and consult a
+physician if you experience any of the following while or shortly after using
+the Software: altered vision, eye or muscle twitching, involuntary movements,
+loss of awareness, disorientation, or convulsions. The Software includes an
+in-app notice and settings ("Echo trails", "Stereo") that reduce motion and
+visual intensity, but they do not eliminate this risk.
+
+This Software is sample and demonstration code, provided for entertainment and
+educational purposes only. It is not a certified or reviewed product. Use is
+entirely at your own risk.
+
+This Software bundles four third-party music tracks under `app/src/main/assets/music/`,
+each licensed separately under Creative Commons Attribution (CC BY 3.0 or 4.0) by
+their respective authors — see `app/src/main/assets/music/ATTRIBUTION.md` and the
+README for full attribution. Those tracks are NOT covered by the MIT grant above;
+they remain under their original CC BY licenses and require attribution if reused.

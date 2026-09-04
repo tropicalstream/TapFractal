@@ -1,0 +1,47 @@
+[
+  {
+    "slot": 1,
+    "title": "Dream Catcher",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800019",
+    "attribution": "\"Dream Catcher\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "slot": 2,
+    "title": "Ethernight Club",
+    "artist": "Kevin MacLeod (incompetech.com)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100002",
+    "attribution": "\"Ethernight Club\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "slot": 3,
+    "title": "Warriors Fall (Original RumbleStep Mix)",
+    "artist": "cdk ft. Darryl J",
+    "license": "CC BY 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://ccmixter.org/files/cdk/50691",
+    "attribution": "\"Warriors Fall (Original RumbleStep Mix)\" by cdk (c) copyright 2015 Licensed under a Creative Commons Attribution (3.0) license. http://ccmixter.org/files/cdk/50691 Ft: Darryl J"
+  },
+  {
+    "slot": 4,
+    "title": "The Beach",
+    "artist": "Platinum Butterfly (F_Fact) ft. debbizo",
+    "license": "CC BY 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://ccmixter.org/files/F_Fact/37699",
+    "samples": [
+      {
+        "title": "Beach (Moana)",
+        "artist": "debbizo",
+        "license": "CC BY 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+        "sourceUrl": "https://ccmixter.org/files/debbizo/26843"
+      }
+    ],
+    "attribution": "\"The Beach\" by Platinum Butterfly (F_Fact) (c) copyright 2012 Licensed under a Creative Commons Attribution (3.0) license. http://ccmixter.org/files/F_Fact/37699 Ft: debbizo. Uses samples from: \"Beach (Moana)\" by debbizo (c) copyright 2010 Licensed under a Creative Commons Attribution (3.0) license. http://ccmixter.org/files/debbizo/26843"
+  }
+]

@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+local.properties
+.DS_Store
+*.apk.idsig
+.idea/
+*.iml
+captures/
+.kotlin/
+tools/.venv/
+docs/screens/
+tools/__pycache__/
+*.pyc
